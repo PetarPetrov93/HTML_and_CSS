@@ -1,0 +1,11 @@
+
+main{
+    background-color: #dddddd;
+    width: 400px;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin-left: 20px;
+}
+p{
+    font-size: 18px;
+}
