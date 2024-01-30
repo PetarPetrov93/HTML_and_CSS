@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding-bottom: 10px;
+    background-color: #CCCCCC;
+    width: 700px;
+}
+
+header{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #444;
+}
+
+main{
+    padding-left: 14px;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    display: inline;
+    padding-right: 32px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 21px;
+}
+
+footer{
+    background-color: #444;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
+
+h1, .msg-date, .msg-par{
+    padding-bottom: 18px;
+}
+
+h1{
+    font-size: 26px;
+}
+
+.msg-date{
+    font-size: 15px;
+}
+
+.msg-par{
+    font-size: 22px;
+}
