@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.container{
+    margin: 28px 20px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Georgia, serif;
+}
+
+h6, .article-header{
+    padding-bottom: 22px;
+    border-bottom: 1px solid grey;
+}
+
+.outter-list{
+    list-style-type: square;
+}
+
+.mid-list{
+    list-style-type: circle;
+}
+
+.inner-list{
+    list-style-type: disc;
+}
+
+table{
+    display: block;
+    border: 1px solid grey;
+}
