@@ -1,0 +1,28 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+div{
+    margin: 24px 18px;
+}
+header{
+    border-bottom: 1px solid black;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: green;
+    margin-right: 24px;
+}
+.title{
+    color: black;
+    margin-right: 42px;
+    font-size: 36px;
+}
+.article-title{
+    font-family: serif;
+    font-size: 26px;
+    font-weight: 500;
+}
+p{
+    font-size: 14px;
+}
