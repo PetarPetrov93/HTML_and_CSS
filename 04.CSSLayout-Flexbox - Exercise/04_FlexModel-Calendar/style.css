@@ -1,0 +1,19 @@
+.calendar{
+    display: flex;
+    flex-direction: column;
+    max-width: 65vw;
+    border: 1px solid black;
+}
+.week-container,
+.weekend-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section{
+    border: 1px solid black;
+}
+
+.week-container section:nth-child(1){
+    width: 70vw;
+}
