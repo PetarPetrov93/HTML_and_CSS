@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    margin: 60px;
+}
+
+body, .galery, ul, li{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+ul{
+    max-width: 900px;
+    max-width: 70vh;
+    gap: 28px;
+}
+
+li{
+    width: 25%;
+    border: 6px solid black;
+    align-self: stretch;
+}
+
+img{
+    display: block;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    width: 90%;
+}
+
+
