@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font: 18px/1.5 Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+    margin: 2.5em 5em;
+}
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.site-header{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.site-title{
+    width: 100%;
+    border-bottom: 2px solid black;
+    padding-bottom: 0.3em;
+}
+
+.art-heading{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0.3em;
+}
+
+.header-p{
+    width: 70%;  
+}
+
+.img1{
+    margin-top: -5.7em;
+}
